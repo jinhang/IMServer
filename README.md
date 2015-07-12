@@ -1,4 +1,1 @@
-server-sdk-java
-===============
-
-Rong Cloud Server SDK in Java.
+开发环境使用以下 App Key 和 App Secret 使用自己的开发者账号。
